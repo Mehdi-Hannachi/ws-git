@@ -1,7 +1,8 @@
 ALGORITHM algorithm_name
 
 VAR
-    set_declarations
+
+hello   
 BEGIN
-    set_instructions
+hello
 END
